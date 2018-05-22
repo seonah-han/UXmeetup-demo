@@ -1,0 +1,30 @@
+
+html, body {
+	height: 100%;
+	margin:0;
+	padding:0;
+}
+html {
+	box-sizing: border-box;
+}
+*,::after,::before {
+ box-sizing:inherit
+}
+img {
+	width:100%;
+	vertical-align:middle; 
+}
+/*===========================================*/
+
+#nav-svg{
+	position: fixed;
+	bottom:0;
+	right:0;
+	width:20vw;
+}
+/*
+#outer-circle {
+	fill: black;
+} 
+*/
+
